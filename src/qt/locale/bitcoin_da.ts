@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
-        <translation>Om Litecoin</translation>
+        <source>About UniverseCoin</source>
+        <translation>Om UniverseCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;UniverseCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;UniverseCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Litecoin developers</source>
-        <translation>Litecoin-udviklerne</translation>
+        <source>The UniverseCoin developers</source>
+        <translation>UniverseCoin-udviklerne</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine Litecoin-adresser til at modtage betalinger med. Du kan give en forskellig adresse til hver afsender, så du kan holde styr på, hvem der betaler dig.</translation>
+        <source>These are your UniverseCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine UniverseCoin-adresser til at modtage betalinger med. Du kan give en forskellig adresse til hver afsender, så du kan holde styr på, hvem der betaler dig.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Litecoin address</source>
-        <translation>Underskriv en besked for at bevise, at en Litecoin-adresse tilhører dig</translation>
+        <source>Sign a message to prove you own a UniverseCoin address</source>
+        <translation>Underskriv en besked for at bevise, at en UniverseCoin-adresse tilhører dig</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
-        <translation>Efterprøv en besked for at sikre, at den er underskrevet med den angivne Litecoin-adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified UniverseCoin address</source>
+        <translation>Efterprøv en besked for at sikre, at den er underskrevet med den angivne UniverseCoin-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Disse er dine Litecoin-adresser for at sende betalinger. Tjek altid beløb og modtageradresse, inden du sender litecoins.</translation>
+        <source>These are your UniverseCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Disse er dine UniverseCoin-adresser for at sende betalinger. Tjek altid beløb og modtageradresse, inden du sender litecoins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin vil nu lukke for at gennemføre krypteringsprocessen. Husk på, at kryptering af din tegnebog vil ikke beskytte dine litecoins fuldt ud mod at blive stjålet af malware på din computer.</translation>
+        <source>UniverseCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <translation>UniverseCoin vil nu lukke for at gennemføre krypteringsprocessen. Husk på, at kryptering af din tegnebog vil ikke beskytte dine litecoins fuldt ud mod at blive stjålet af malware på din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
-        <translation>Vis informationer om Litecoin</translation>
+        <source>Show information about UniverseCoin</source>
+        <translation>Vis informationer om UniverseCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Send litecoins til en Litecoin-adresse</translation>
+        <source>Send coins to a UniverseCoin address</source>
+        <translation>Send litecoins til en UniverseCoin-adresse</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Litecoin</source>
-        <translation>Rediger konfigurationsindstillinger af Litecoin</translation>
+        <source>Modify configuration options for UniverseCoin</source>
+        <translation>Rediger konfigurationsindstillinger af UniverseCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>UniverseCoin</source>
+        <translation>UniverseCoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
-        <translation>Om Litecoin</translation>
+        <source>&amp;About UniverseCoin</source>
+        <translation>Om UniverseCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Underskriv beskeder med dine Litecoin-adresser for at bevise, at de tilhører dig</translation>
+        <source>Sign messages with your UniverseCoin addresses to prove you own them</source>
+        <translation>Underskriv beskeder med dine UniverseCoin-adresser for at bevise, at de tilhører dig</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Efterprøv beskeder for at sikre, at de er underskrevet med de(n) angivne Litecoin-adresse(r)</translation>
+        <source>Verify messages to ensure they were signed with specified UniverseCoin addresses</source>
+        <translation>Efterprøv beskeder for at sikre, at de er underskrevet med de(n) angivne UniverseCoin-adresse(r)</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Litecoin client</source>
-        <translation>Litecoin-klient</translation>
+        <source>UniverseCoin client</source>
+        <translation>UniverseCoin-klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n aktiv(e) forbindelse(r) til Litecoin-netværket</numerusform><numerusform>%n aktiv(e) forbindelse(r) til Litecoin-netværket</numerusform></translation>
+        <source>%n active connection(s) to UniverseCoin network</source>
+        <translation><numerusform>%n aktiv(e) forbindelse(r) til UniverseCoin-netværket</numerusform><numerusform>%n aktiv(e) forbindelse(r) til UniverseCoin-netværket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresse: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke fortolkes! Dette kan skyldes en ugyldig Litecoin-adresse eller misdannede URI-parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid UniverseCoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke fortolkes! Dette kan skyldes en ugyldig UniverseCoin-adresse eller misdannede URI-parametre.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Der opstod en fatal fejl. Litecoin kan ikke længere fortsætte sikkert og vil afslutte.</translation>
+        <source>A fatal error occurred. UniverseCoin can no longer continue safely and will quit.</source>
+        <translation>Der opstod en fatal fejl. UniverseCoin kan ikke længere fortsætte sikkert og vil afslutte.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig Litecoin-adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid UniverseCoin address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig UniverseCoin-adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresse: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <source>UniverseCoin-Qt</source>
+        <translation>UniverseCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresse: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Start Litecoin automatisk, når der logges ind på systemet</translation>
+        <source>Automatically start UniverseCoin after logging in to the system.</source>
+        <translation>Start UniverseCoin automatisk, når der logges ind på systemet</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Litecoin on system login</source>
-        <translation>Start Litecoin, når systemet startes</translation>
+        <source>&amp;Start UniverseCoin on system login</source>
+        <translation>Start UniverseCoin, når systemet startes</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åbn Litecoin-klientens port på routeren automatisk. Dette virker kun, når din router understøtter UPnP og UPnP er aktiveret.</translation>
+        <source>Automatically open the UniverseCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åbn UniverseCoin-klientens port på routeren automatisk. Dette virker kun, når din router understøtter UPnP og UPnP er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til Litecoin-netværket via en SOCKS-proxy (f.eks. ved tilslutning gennem Tor)</translation>
+        <source>Connect to the UniverseCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til UniverseCoin-netværket via en SOCKS-proxy (f.eks. ved tilslutning gennem Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>Brugergrænsefladesproget kan angives her. Denne indstilling træder først i kraft, når Litecoin genstartes.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting UniverseCoin.</source>
+        <translation>Brugergrænsefladesproget kan angives her. Denne indstilling træder først i kraft, når UniverseCoin genstartes.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Litecoin addresses in the transaction list or not.</source>
-        <translation>Afgør hvorvidt Litecoin-adresser skal vises i transaktionslisten eller ej.</translation>
+        <source>Whether to show UniverseCoin addresses in the transaction list or not.</source>
+        <translation>Afgør hvorvidt UniverseCoin-adresser skal vises i transaktionslisten eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adresse: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Litecoin.</source>
-        <translation>Denne indstilling træder i kraft, efter Litecoin genstartes.</translation>
+        <source>This setting will take effect after restarting UniverseCoin.</source>
+        <translation>Denne indstilling træder i kraft, efter UniverseCoin genstartes.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresse: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den viste information kan være forældet. Din tegnebog synkroniserer automatisk med Litecoin-netværket, når en forbindelse etableres, men denne proces er ikke gennemført endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the UniverseCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den viste information kan være forældet. Din tegnebog synkroniserer automatisk med UniverseCoin-netværket, når en forbindelse etableres, men denne proces er ikke gennemført endnu.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adresse: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Kan ikke starte litecoin: click-to-pay-håndtering</translation>
+        <source>Cannot start UniverseCoin: click-to-pay handler</source>
+        <translation>Kan ikke starte UniverseCoin: click-to-pay-håndtering</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>Vis Litecoin-Qt-hjælpebeskeden for at få en liste over de tilgængelige Litecoin-kommandolinjeindstillinger.</translation>
+        <source>Show the UniverseCoin-Qt help message to get a list with possible UniverseCoin command-line options.</source>
+        <translation>Vis UniverseCoin-Qt-hjælpebeskeden for at få en liste over de tilgængelige UniverseCoin-kommandolinjeindstillinger.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresse: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Litecoin - Debug window</source>
-        <translation>Litecoin - Fejlsøgningsvindue</translation>
+        <source>UniverseCoin - Debug window</source>
+        <translation>UniverseCoin - Fejlsøgningsvindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>UniverseCoin Core</source>
+        <translation>UniverseCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn Litecoin-fejlsøgningslogfilen fra det nuværende datakatalog. Dette kan tage nogle få sekunder for en store logfiler.</translation>
+        <source>Open the UniverseCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn UniverseCoin-fejlsøgningslogfilen fra det nuværende datakatalog. Dette kan tage nogle få sekunder for en store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Velkommen til Litecoin RPC-konsollen</translation>
+        <source>Welcome to the UniverseCoin RPC console.</source>
+        <translation>Velkommen til UniverseCoin RPC-konsollen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1408,7 +1408,7 @@ Adresse: %4
     <message>
         <location line="+34"/>
         <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Litecoin-adressen som betalingen skal sendes til (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>UniverseCoin-adressen som betalingen skal sendes til (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,8 +1448,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en Litecoin-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a UniverseCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en UniverseCoin-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1467,12 +1467,12 @@ Adresse: %4
     <message>
         <location line="+6"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan underskrive beskeder med dine Litecoin-adresser for at bevise, at de tilhører dig. Pas på ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
+        <translation>Du kan underskrive beskeder med dine UniverseCoin-adresser for at bevise, at de tilhører dig. Pas på ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Litecoin-adressen som beskeden skal underskrives med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>UniverseCoin-adressen som beskeden skal underskrives med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1513,8 +1513,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Underskriv denne besked for at bevise, at Litecoin-adressen tilhører dig</translation>
+        <source>Sign the message to prove you own this UniverseCoin address</source>
+        <translation>Underskriv denne besked for at bevise, at UniverseCoin-adressen tilhører dig</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1545,12 +1545,12 @@ Adresse: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Litecoin-adressen som beskeden er underskrevet med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>UniverseCoin-adressen som beskeden er underskrevet med (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Efterprøv beskeden for at sikre, at den er underskrevet med den angivne Litecoin-adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified UniverseCoin address</source>
+        <translation>Efterprøv beskeden for at sikre, at den er underskrevet med den angivne UniverseCoin-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresse: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Indtast en Litecoin-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a UniverseCoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en UniverseCoin-adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Litecoin signature</source>
-        <translation>Indtast Litecoin-underskriften</translation>
+        <source>Enter UniverseCoin signature</source>
+        <translation>Indtast UniverseCoin-underskriften</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresse: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Litecoin developers</source>
-        <translation>Litecoin-udviklerne</translation>
+        <source>The UniverseCoin developers</source>
+        <translation>UniverseCoin-udviklerne</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adresse: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Litecoin version</source>
-        <translation>Litecoin-version</translation>
+        <source>UniverseCoin version</source>
+        <translation>UniverseCoin-version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2217,8 +2217,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Angiv konfigurationsfil (standard: litecoin.conf)</translation>
+        <source>Specify configuration file (default: UniverseCoin.conf)</source>
+        <translation>Angiv konfigurationsfil (standard: UniverseCoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2237,8 +2237,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9333 or testnet: 19333)</source>
-        <translation>Lyt til forbindelser på &lt;port&gt; (standard: 9333 eller testnetværk: 19333)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 59333 or testnet: 19333)</source>
+        <translation>Lyt til forbindelser på &lt;port&gt; (standard: 59333 eller testnetværk: 19333)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2306,7 +2306,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;UniverseCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du skal angive en RPC-adgangskode i konfigurationsfilen:
 %s
@@ -2317,7 +2317,7 @@ rpcpassword=%s
 Brugernavnet og adgangskode MÅ IKKE være det samme.
 Hvis filen ikke eksisterer, opret den og giv ingen andre end ejeren læserettighed.
 Det anbefales også at angive alertnotify, så du påmindes om problemer;
-f.eks.: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
+f.eks.: alertnotify=echo %%s | mail -s &quot;UniverseCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Litecoin is probably already running.</source>
-        <translation>Kan ikke opnå lås på datakatalog %s. Litecoin er sandsynligvis allerede startet.</translation>
+        <source>Cannot obtain a lock on data directory %s. UniverseCoin is probably already running.</source>
+        <translation>Kan ikke opnå lås på datakatalog %s. UniverseCoin er sandsynligvis allerede startet.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
-        <translation>Advarsel: Undersøg venligst, at din computers dato og klokkeslæt er korrekt indstillet! Hvis der er fejl i disse, vil Litecoin ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong UniverseCoin will not work properly.</source>
+        <translation>Advarsel: Undersøg venligst, at din computers dato og klokkeslæt er korrekt indstillet! Hvis der er fejl i disse, vil UniverseCoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2498,7 +2498,7 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
     <message>
         <location line="+1"/>
         <source>Failed to write to coin database</source>
-        <translation>Skrivning af litecoin-database mislykkedes</translation>
+        <translation>Skrivning af UniverseCoin-database mislykkedes</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2627,8 +2627,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-indstillinger: (se Litecoin Wiki for SSL-opsætningsinstruktioner)</translation>
+        <source>SSL options: (see the UniverseCoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-indstillinger: (se UniverseCoin Wiki for SSL-opsætningsinstruktioner)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebog kræver en nyere version af Litecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of UniverseCoin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebog kræver en nyere version af UniverseCoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>Det var nødvendigt at genskrive tegnebogen: genstart Litecoin for at gennemføre</translation>
+        <source>Wallet needed to be rewritten: restart UniverseCoin to complete</source>
+        <translation>Det var nødvendigt at genskrive tegnebogen: genstart UniverseCoin for at gennemføre</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ f.eks.: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
-        <translation>Kunne ikke tildele %s på denne computer. Litecoin kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. UniverseCoin is probably already running.</source>
+        <translation>Kunne ikke tildele %s på denne computer. UniverseCoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="+64"/>
